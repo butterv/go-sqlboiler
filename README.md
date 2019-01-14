@@ -1,0 +1,1 @@
+# go-sqlboiler-example
