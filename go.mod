@@ -19,6 +19,6 @@ require (
 	github.com/volatiletech/null v8.0.0+incompatible
 	github.com/volatiletech/sqlboiler v3.1.0+incompatible
 	golang.org/x/sys v0.0.0-20190116161447-11f53e031339
-	golang.org/x/text v0.3.0
+	golang.org/x/text v0.3.2
 	gopkg.in/yaml.v2 v2.2.2
 )
