@@ -5,7 +5,7 @@ require (
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/hashicorp/hcl v1.0.0
 	github.com/kat-co/vala v0.0.0-20140812221447-bfe9b50e828a
-	github.com/lib/pq v1.0.0
+	github.com/lib/pq v1.1.0
 	github.com/magiconair/properties v1.8.0
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/pelletier/go-toml v1.2.0
