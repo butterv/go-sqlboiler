@@ -18,7 +18,7 @@ require (
 	github.com/spf13/viper v1.5.0
 	github.com/volatiletech/inflect v0.0.0-20170731032912-e7201282ae8d
 	github.com/volatiletech/null v8.0.0+incompatible
-	github.com/volatiletech/sqlboiler v3.4.0+incompatible
+	github.com/volatiletech/sqlboiler v3.6.1+incompatible
 	golang.org/x/sys v0.0.0-20190116161447-11f53e031339
 	golang.org/x/text v0.3.2
 	gopkg.in/yaml.v2 v2.2.5
