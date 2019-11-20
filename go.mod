@@ -21,5 +21,5 @@ require (
 	github.com/volatiletech/sqlboiler v3.6.1+incompatible
 	golang.org/x/sys v0.0.0-20190116161447-11f53e031339
 	golang.org/x/text v0.3.2
-	gopkg.in/yaml.v2 v2.2.5
+	gopkg.in/yaml.v2 v2.2.7
 )
