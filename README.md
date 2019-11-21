@@ -1,1 +1,1 @@
-# go-sqlboiler-example
+# go-sqlboiler
