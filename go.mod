@@ -1,7 +1,7 @@
 module github.com/istsh/go-sqlboiler-example
 
 require (
-	github.com/fsnotify/fsnotify v1.4.7
+	github.com/fsnotify/fsnotify v1.4.9
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/hashicorp/hcl v1.0.0
 	github.com/kat-co/vala v0.0.0-20140812221447-bfe9b50e828a
